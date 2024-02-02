@@ -1,0 +1,42 @@
+{
+  "currentPage": {
+    "displayTemplate": "mediaUrls"
+  },
+  "detail": {
+    "informations": {
+      "contentID": "1501162",
+      "channelID": "450",
+      "consumptionPlatform": "PFV",
+      "availableInVoDOnDevice": true,
+      "availableInD2GOnDevice": true,
+      "isInOfferForD2G": false,
+      "isInOfferForVoD": true,
+      "title": "Best of - Part 1",
+      "subtitle": "TPMP - 12/07/2018",
+      "idVideoPub": "1501162",
+      "videoPathPub": "D8_DIVERTISSEMENT/TPMP/EMISSION",
+      "duration": "2922000",
+      "noPub": false,
+      "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/38/4/1/VIGNETTE_AUTO_750644_H.jpg",
+      "sharingURL": "https://mycan.al/pfv/1501162",
+      "fbkWatchTag": "video.episode",
+      "videoURLs": [
+        {
+          "videoURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+          "encryption": "clear"
+        }
+      ]
+    }
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCAndroid",
+      "prop4": "MyCAndroid - Lecture prog",
+      "prop5": "MyCAndroid - Lecture prog - Best of - Part 1_1501162",
+      "pageName": "MyCAndroid - Lecture prog - Best of - Part 1_1501162",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  }
+}

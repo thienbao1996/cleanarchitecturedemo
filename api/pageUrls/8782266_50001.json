@@ -1,0 +1,49 @@
+{
+  "currentPage": {
+    "displayTemplate": "detailPage",
+    "displayName": "Une belle rencontre",
+    "BOName": "Une belle rencontre",
+    "path": "/cinema/une-belle-rencontre/h/8782266_50001"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCAndroid",
+      "prop4": "MyCAndroid - Prog",
+      "prop5": "MyCAndroid - Prog - Fiche",
+      "prop6": "MyCAndroid - Prog - Fiche - Cinéma",
+      "prop7": "MyCAndroid - Prog - Fiche - Cinéma - Une belle rencontre",
+      "pageName": "MyCAndroid - Prog - Fiche - Cinéma - Une belle rencontre",
+      "prop10": "Contenu",
+      "prop11": "Crypte",
+      "prop12": "Consumer",
+      "eVar30": "Film Comédie dramatique",
+      "eVar39": "8782266_50001",
+      "prop19": "CANAL+"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "VoD",
+      "displayPersoButtons": true,
+      "contentID": "8782266_50001",
+      "idRevision": "8782266_50001;2ole;864SKsXId5",
+      "title": "Une belle rencontre",
+      "subtitle": "Film Comédie dramatique",
+      "thirdTitle": "CANAL+",
+      "editorialTitle": "Film Comédie dramatique, Royaume-Uni, 2016, 1h52",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60224431",
+      "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+      "fbkWatchTag": "video.movie",
+      "summary": "En pleine Seconde Guerre mondiale, alors que Londres est sous les bombardements, le service de la propagande britannique engage Catrin Cole pour intégrer une équipe de cinéma. La jeune femme est chargée d'assister Tom Buckley dans sa réalisation d'un film visant à remonter le moral de la population...",
+      "sharingURL": "https://mycan.al/h/8782266_50001",
+      "HD": true,
+      "UHD": false,
+      "availabilityEndDate": 1532123940,
+      "CSA": 2,
+      "availableInVoDOnDevice": true,
+      "availableInD2GOnDevice": true,
+      "isInOfferForD2G": true,
+      "URLMedias": "https://raw.githubusercontent.com/romainz/MyCAndroid/master/api/mediaUrls/mediaUrl1.json"
+    }
+  }
+}

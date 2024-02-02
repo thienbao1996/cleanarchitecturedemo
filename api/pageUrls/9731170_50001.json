@@ -1,0 +1,43 @@
+{
+  "currentPage": {
+    "displayTemplate": "detailPage",
+    "displayName": "La fille dans le brouillard",
+    "BOName": "La fille dans le brouillard",
+    "path": "/cinema/la-fille-dans-le-brouillard/h/9731170_50001"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCAndroid",
+      "prop4": "MyCAndroid - Prog",
+      "prop5": "MyCAndroid - Prog - Fiche",
+      "prop6": "MyCAndroid - Prog - Fiche - Cinéma",
+      "prop7": "MyCAndroid - Prog - Fiche - Cinéma - La fille dans le brouillard",
+      "pageName": "MyCAndroid - Prog - Fiche - Cinéma - La fille dans le brouillard",
+      "prop10": "Contenu",
+      "prop11": "Crypte",
+      "prop12": "Consumer",
+      "eVar30": "Film Suspense",
+      "eVar39": "9731170_50001",
+      "prop19": "CANAL+"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "VoD",
+      "displayPersoButtons": true,
+      "contentID": "9731170_50001",
+      "idRevision": "9731170_50001;2fJF;862En9ze0F",
+      "title": "La fille dans le brouillard",
+      "subtitle": "Film Suspense",
+      "thirdTitle": "CANAL+",
+      "editorialTitle": "Film Suspense, Italie - France - Allemagne, 2017, 2h03",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69269215",
+      "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+      "fbkWatchTag": "video.movie",
+      "summary": "La veille de Noël, Avechot, petite ville située dans une vallée alpine, est le théâtre de la disparition inexplicable d'Anna Lou Kastner, une adolescente sans histoire. Le très médiatique commissaire Vogel est envoyé sur place pour enquêter, suivi par une meute de journalistes...",
+      "sharingURL": "https://mycan.al/h/9731170_50001",
+      "consumptionPlatform": "HAPI",
+      "URLMedias": "https://raw.githubusercontent.com/romainz/MyCAndroid/master/api/mediaUrls/mediaUrl4.json"
+    }
+  }
+}

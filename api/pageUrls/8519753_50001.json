@@ -1,0 +1,47 @@
+{
+  "currentPage": {
+    "displayTemplate": "detailPage",
+    "displayName": "Les gardiens de la galaxie Vol. 2",
+    "BOName": "Les gardiens de la galaxie Vol. 2",
+    "path": "/cinema/les-gardiens-de-la-galaxie-vol-2/h/8519753_50001"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCAndroid",
+      "prop4": "MyCAndroid - Prog",
+      "prop5": "MyCAndroid - Prog - Fiche",
+      "prop6": "MyCAndroid - Prog - Fiche - Cinéma",
+      "prop7": "MyCAndroid - Prog - Fiche - Cinéma - Les gardiens de la galaxie Vol. 2",
+      "pageName": "MyCAndroid - Prog - Fiche - Cinéma - Les gardiens de la galaxie Vol. 2",
+      "prop10": "Contenu",
+      "prop11": "Crypte",
+      "prop12": "Consumer",
+      "eVar30": "Film Science-fiction",
+      "eVar39": "8519753_50001",
+      "prop19": "CANAL+"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "VoD",
+      "displayPersoButtons": true,
+      "contentID": "8519753_50001",
+      "idRevision": "8519753_50001;3vs7;864TvlCbyr",
+      "title": "Les gardiens de la galaxie Vol. 2",
+      "subtitle": "Film Science-fiction",
+      "thirdTitle": "CANAL+",
+      "editorialTitle": "Film Science-fiction, Etats-Unis, 2017, 2h10",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474158",
+      "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+      "fbkWatchTag": "video.movie",
+      "summary": "Les Gardiens de la galaxie traversent le cosmos à la recherche de nouvelles aventures. Alors que Groot est revenu en enfance, Quill apprend l'identité de son père, ce qui n'est pas sans bouleverser l'équipe. Alors que d'anciens ennemis se joignent à eux, les gardiens sont confrontés à de nouveaux dangers...",
+      "sharingURL": "https://mycan.al/h/8519753_50001",
+      "HD": true,
+      "UHD": false,
+      "availabilityEndDate": 1537999140,
+      "CSA": 2,
+      "consumptionPlatform": "HAPI",
+      "URLMedias": "https://raw.githubusercontent.com/romainz/MyCAndroid/master/api/mediaUrls/mediaUrl2.json"
+    }
+  }
+}

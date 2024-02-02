@@ -1,0 +1,43 @@
+{
+  "currentPage": {
+    "displayTemplate": "detailPage",
+    "displayName": "Le monde de Dory",
+    "BOName": "Le monde de Dory",
+    "path": "/cinema/le-monde-de-dory/h/6976257_50001"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCAndroid",
+      "prop4": "MyCAndroid - Prog",
+      "prop5": "MyCAndroid - Prog - Fiche",
+      "prop6": "MyCAndroid - Prog - Fiche - Cinéma",
+      "prop7": "MyCAndroid - Prog - Fiche - Cinéma - Le monde de Dory",
+      "pageName": "MyCAndroid - Prog - Fiche - Cinéma - Le monde de Dory",
+      "prop10": "Contenu",
+      "prop11": "Crypte",
+      "prop12": "Consumer",
+      "eVar30": "Film Animation",
+      "eVar39": "6976257_50001",
+      "prop19": "CANAL+"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "VoD",
+      "displayPersoButtons": true,
+      "contentID": "6976257_50001",
+      "idRevision": "6976257_50001;2omZ;865ztgPbsH",
+      "title": "Le monde de Dory",
+      "subtitle": "Film Animation",
+      "thirdTitle": "CANAL+",
+      "editorialTitle": "Film Animation, Etats-Unis, 2016, 1h33",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/37475585",
+      "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+      "fbkWatchTag": "video.movie",
+      "summary": "Un an après avoir retrouvé Nemo, Dory, poisson chirurgien amnésique, mène une vie paisible en compagnie de sa famille de coeur. Jusqu'au jour où un souvenir-flash lui remet en mémoire ses parents oubliés. Déterminée à les retrouver, Dory se lance à leur recherche en compagnie de Marin et Nemo...",
+      "sharingURL": "https://mycan.al/h/6976257_50001",
+      "consumptionPlatform": "HAPI",
+      "URLMedias": "https://raw.githubusercontent.com/romainz/MyCAndroid/master/api/mediaUrls/mediaUrl3.json"
+    }
+  }
+}

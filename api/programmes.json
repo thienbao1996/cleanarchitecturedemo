@@ -1,0 +1,140 @@
+[
+  {
+    "type": "quicktime",
+    "contentID": "1501162",
+    "title": "Best of - Part 1",
+    "subtitle": "TPMP - 12/07/2018",
+    "URLImage": "https://static.canal-plus.net/exoplayer/api/images/1501162.jpg",
+    "onClick": {
+      "displayTemplate": "quicktime",
+      "displayName": "Best of - Part 1",
+      "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/34dd47d57c659b511e83c520079df1a1/pfv/1501162.json?id=1501162&params[type]=pfv&cache=780000",
+      "URLMedias": "https://static.canal-plus.net/exoplayer/api/mediaUrls/1501162.json",
+      "path": "/d-8-divertissement/best-of-part-1-tpmp-12-07-2018/p/1501162"
+    }
+  },
+  {
+    "type": "VoD",
+    "contentID": "9731170_50001",
+    "title": "La fille dans le brouillard",
+    "subtitle": "Film Suspense",
+    "thirdTitle": "CANAL+",
+    "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69269215",
+    "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+    "CSA": 2,
+    "onClick": {
+      "displayTemplate": "detailPage",
+      "displayName": "La fille dans le brouillard",
+      "URLPage": "https://static.canal-plus.net/exoplayer/api/pageUrls/9731170_50001.json",
+      "BOName": "La fille dans le brouillard",
+      "path": "/cinema/la-fille-dans-le-brouillard/h/9731170_50001"
+    }
+  },
+  {
+    "type": "quicktime",
+    "contentID": "1501161",
+    "title": "Best of - Part 2",
+    "subtitle": "TPMP - 12/07/2018",
+    "URLImage": "https://static.canal-plus.net/exoplayer/api/images/1501161.jpg",
+    "onClick": {
+      "displayTemplate": "quicktime",
+      "displayName": "Best of - Part 2",
+      "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/34dd47d57c659b511e83c520079df1a1/pfv/1501161.json?id=1501161&params[type]=pfv&cache=780000",
+      "URLMedias": "https://static.canal-plus.net/exoplayer/api/mediaUrls/1501161.json",
+      "path": "/d-8-divertissement/best-of-part-2-tpmp-12-07-2018/p/1501161"
+    }
+  },
+  {
+    "type": "VoD",
+    "contentID": "6976257_50001",
+    "title": "Le monde de Dory",
+    "subtitle": "Film Animation",
+    "thirdTitle": "CANAL+",
+    "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/37475585",
+    "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+    "CSA": 1,
+    "onClick": {
+      "displayTemplate": "detailPage",
+      "displayName": "Le monde de Dory",
+      "URLPage": "https://static.canal-plus.net/exoplayer/api/pageUrls/6976257_50001.json",
+      "BOName": "Le monde de Dory",
+      "path": "/cinema/le-monde-de-dory/h/6976257_50001"
+    }
+  },
+  {
+    "type": "quicktime",
+    "contentID": "1500938",
+    "title": "Best of - Part 1",
+    "subtitle": "TPMP - 11/07/2018",
+    "URLImage": "https://static.canal-plus.net/exoplayer/api/images/1500938.jpg",
+    "onClick": {
+      "displayTemplate": "quicktime",
+      "displayName": "Best of - Part 1",
+      "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/34dd47d57c659b511e83c520079df1a1/pfv/1500938.json?id=1500938&params[type]=pfv&cache=780000",
+      "URLMedias": "https://static.canal-plus.net/exoplayer/api/mediaUrls/1500938.json",
+      "path": "/d-8-divertissement/best-of-part-1-tpmp-11-07-2018/p/1500938"
+    }
+  },
+  {
+    "type": "quicktime",
+    "contentID": "1500903",
+    "title": "Best of - Part 2",
+    "subtitle": "TPMP - 11/07/2018",
+    "URLImage": "https://static.canal-plus.net/exoplayer/api/images/1500903.jpg",
+    "onClick": {
+      "displayTemplate": "quicktime",
+      "displayName": "Best of - Part 2",
+      "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/34dd47d57c659b511e83c520079df1a1/pfv/1500903.json?id=1500903&params[type]=pfv&cache=780000",
+      "URLMedias": "https://static.canal-plus.net/exoplayer/api/mediaUrls/1500903.json",
+      "path": "/d-8-divertissement/best-of-part-2-tpmp-11-07-2018/p/1500903"
+    }
+  },
+  {
+    "type": "VoD",
+    "contentID": "8519753_50001",
+    "title": "Les gardiens de la galaxie Vol. 2",
+    "subtitle": "Film Science-fiction",
+    "thirdTitle": "CANAL+",
+    "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474158",
+    "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+    "CSA": 2,
+    "onClick": {
+      "displayTemplate": "detailPage",
+      "displayName": "Les gardiens de la galaxie Vol. 2",
+      "URLPage": "https://static.canal-plus.net/exoplayer/api/pageUrls/8519753_50001.json",
+      "BOName": "Les gardiens de la galaxie Vol. 2",
+      "path": "/cinema/les-gardiens-de-la-galaxie-vol-2/h/8519753_50001"
+    }
+  },
+  {
+    "type": "quicktime",
+    "contentID": "1500935",
+    "title": "Best of - Part 1",
+    "subtitle": "TPMP - 10/07/2018",
+    "URLImage": "https://static.canal-plus.net/exoplayer/api/images/1500935.jpg",
+    "onClick": {
+      "displayTemplate": "quicktime",
+      "displayName": "Best of - Part 1",
+      "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/34dd47d57c659b511e83c520079df1a1/pfv/1500935.json?id=1500935&params[type]=pfv&cache=780000",
+      "URLMedias": "https://static.canal-plus.net/exoplayer/api/mediaUrls/1500935.json",
+      "path": "/d-8-divertissement/best-of-part-1-tpmp-10-07-2018/p/1500935"
+    }
+  },
+  {
+    "type": "VoD",
+    "contentID": "8782266_50001",
+    "title": "Une belle rencontre",
+    "subtitle": "Film Comédie dramatique",
+    "thirdTitle": "CANAL+",
+    "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60224431",
+    "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+    "CSA": 2,
+    "onClick": {
+      "displayTemplate": "detailPage",
+      "displayName": "Une belle rencontre",
+      "URLPage": "https://static.canal-plus.net/exoplayer/api/pageUrls/8782266_50001.json",
+      "BOName": "Une belle rencontre",
+      "path": "/cinema/une-belle-rencontre/h/8782266_50001"
+    }
+  }
+]
